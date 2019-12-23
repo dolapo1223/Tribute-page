@@ -1,0 +1,36 @@
+h1{
+    
+    text-align: center;
+}
+
+p{
+    
+    font-family: calibri;
+    font-size: 20;
+    background-color: lavenderblush;
+    text-align: justify
+}
+
+
+img{
+    
+    max-width:100%;
+    height: auto;
+    border-radius: 20%
+}
+
+
+h3{
+    
+    text-align: justify;
+    font-style: italic;
+    font-size: 15;
+}
+
+a{
+    text-align: center;
+    color: red;
+    font-style: oblique;
+    
+    
+}
